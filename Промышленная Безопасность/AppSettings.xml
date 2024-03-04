@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <ConnectionString>Data Source=(localdb)\MSSQLLocalDB;Initial Catalog='ЦПБ';Integrated Security=True</ConnectionString>
+  <DefaultPath>C:\work\test\</DefaultPath>
+  <TemplateFolder>C:\work\диплом\project\Промышленная Безопасность\Промышленная Безопасность\Шаблоны\</TemplateFolder>
+</Settings>

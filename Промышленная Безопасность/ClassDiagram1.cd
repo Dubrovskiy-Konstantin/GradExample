@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Промышленная_Безопасность.Auth" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Auth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.Form1" Collapsed="true">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Промышленная_Безопасность.Form1.ShowAncestor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>/xOLA2MFAawiIN2ZogWAE6CWBCkfpYAlFPYMAgsCBbg=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.DBContext">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>DBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.DirectoryMatcher">
+    <Position X="6" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAABQAAAAAAQSAAAACAAAAAQEEABEAAAAEBACAAAA=</HashCode>
+      <FileName>DirectoryMatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.Group">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAgAAEEEADgAAAAAAgAQACAEABAAAAAAAAAAEAA=</HashCode>
+      <FileName>Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.InitialData">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAJAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InitialData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.Program">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.Spec" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAAACAAAACAAg4AAAAECAAAAAAgAI=</HashCode>
+      <FileName>Spec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.Template">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAABAAQAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemplateHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.TemplateHandler">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAEAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>TemplateHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Промышленная_Безопасность.WordCreator">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WordCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Промышленная_Безопасность.ТипОбучения">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQA=</HashCode>
+      <FileName>DirectoryMatcher.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Промышленная_Безопасность.ТипПрофессии">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAgAIAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DirectoryMatcher.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
